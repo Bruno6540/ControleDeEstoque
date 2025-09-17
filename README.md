@@ -15,3 +15,4 @@ O sistema permite:
 - Conceitos de orientação a objetos (`classes`, `métodos`, `encapsulamento`)
 - `ArrayList` para armazenar os produtos
 - `Scanner` para entrada de dados do usuário
+- 
