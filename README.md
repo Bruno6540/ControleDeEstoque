@@ -2,8 +2,6 @@
 
 Este é um projeto simples de um sistema de controle de estoque desenvolvido em **Java**, utilizando conceitos de orientação a objetos, listas (`ArrayList`) e interações com o usuário via console.
 
-## Projeto 1/3
-
 Este projeto faz parte de uma série em desenvolvimento, onde apresento em 3 etapas a evolução dos meus estudos. Aqui está a primeira parte (1/3), que será seguida pelas próximas duas fases..
 
 O sistema permite:
